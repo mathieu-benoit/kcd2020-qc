@@ -22,6 +22,9 @@ To summarize:
     - Hashicorp?
     - Victrix?
     - Tetra?
+    - CloudOps?
+    - Maya Data?
+    - Ingeno?
     
 Resources:
 - [Guidance for organizing](https://kubernetescommunitydays.org/organizing/)
