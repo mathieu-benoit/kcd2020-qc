@@ -25,6 +25,7 @@ To summarize:
 
 2020-01-24:
 - [ ] Merci de lire et d'etre d'accord avec le Code of Conduct: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
+- [ ] Passons a travers la guidance de la CNCF pour l'organisation de l'evenement: https://kubernetescommunitydays.org/organizing/
 - [ ] Est-ce que les participants doivent payer ?
 - [ ] Quelles salles potentielles ?
   - ENAP
