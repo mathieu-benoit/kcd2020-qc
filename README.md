@@ -22,6 +22,10 @@ To summarize:
     - Hashicorp?
     - Victrix?
     - Tetra?
+    
+Resources:
+- [Guidance for organizing](https://kubernetescommunitydays.org/organizing/)
+- [Example from Amsterdam](https://deploy-preview-248--kubernetes-community-days.netlify.com/events/2019-amsterdam/)
 
 2020-01-24:
 - [ ] Merci de lire et d'etre d'accord avec le Code of Conduct: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
