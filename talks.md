@@ -1,6 +1,6 @@
 Individus potentiel pour talks :
 
-  * Julien Maitrehenry
+  * Julien Maitrehenry ( a contacter )
 
 
 Organisations/Compagnie potentiel :
