@@ -7,7 +7,7 @@ Submission of the Quebec city event there: https://github.com/cncf/kubernetes-co
 - [Organizers](organizers.md)
 - [Sponsors](sponsors.md)
 - [Talks](talks.md)
-
+- [Internal meetings](internal-meetings.md)
     
 Resources:
 - [Guidance for organizing](https://kubernetescommunitydays.org/organizing/)
