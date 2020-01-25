@@ -4,6 +4,7 @@ Private repository for the organizers of the KCD 2020 - Quebec city, Canada
 
 Submission of the Quebec city event there: https://github.com/cncf/kubernetes-community-days/issues/217
 
+Details are documented either in [our Kanban board for this event](https://github.com/mathieu-benoit/kcd2020-qc/projects/1) or in the sections below:
 - [Organizers](organizers.md)
 - [Sponsors](sponsors.md)
 - [Talks](talks.md)
