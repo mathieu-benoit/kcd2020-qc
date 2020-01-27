@@ -11,7 +11,7 @@ Actions a court terme :
 - [X] Passons a travers la guidance de la CNCF pour l'organisation de l'evenement: https://kubernetescommunitydays.org/organizing/
 - [ ] On viserait l'une des trois dates suivantes : Jeudi 11 juin, Mardi 15 juin ou Jeudi 18 juin
 - [ ] Il faudrait creer le plans de commandites/sponsors par exemple Gold, Silver et Bronze ?
-- [ ] Voulons-nous avoir notre propre [Conference Action Items and Checklist (Google Sheet)](Conference Action Items and Checklist) ? Ou voulons-nous traduire ca ici dans notre GitHub ? En tout cas n'hesitez pas lire cette checklist qui nous permettra de challenger que l'on oublie rien ;)
+- [ ] Voulons-nous avoir notre propre [Conference Action Items and Checklist (Google Sheet)](https://docs.google.com/spreadsheets/d/1bvCiyyDut1seSnBE6pzVevcJkXLeWbxbncvhFsyY8PI/edit) ? Ou voulons-nous traduire ca ici dans notre GitHub ? En tout cas n'hesitez pas lire cette checklist qui nous permettra de challenger que l'on oublie rien ;)
 - [ ] RedHat veut nous payer avant le 15 Fevrier 2020, attendons un peu les autres alternatives sinon Sebastien T. fera une facture avec notre plan d'avoir Lecentre.net comme Financial Sponsor
 
 Autres points discutes :
