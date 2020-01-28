@@ -1,0 +1,52 @@
+{{ $tag      := index (split .CurrentSection.File "/") 1 }}
+{{ $sponsors := .CurrentSection.Params.sponsors }}
+
+
+{{ with $sponsors }}
+<hr />
+
+<section class="section">
+  <div class="container">
+    <p class="title is-size-3 is-size-4-mobile has-text-weight-light">
+      Sponsors
+    </p>
+
+    <hr class="thick-hr" />
+
+    <div class="columns is-multiline">
+      {{ range . }}
+      {{ $level := .level }}
+      {{ $orgs  := .orgs }}
+      <div class="column is-half">
+        <div class="card">
+          <header class="card-header">
+            <p class="card-header-title is-size-5 is-size-6-mobile">
+              {{ $level | title }}
+            </p>
+          </header>
+          
+          <div class="card-content">
+              {{ with $orgs }}
+              <div class="supporter-logo-container-block">
+                {{ range . }}
+                {{ $imgUrl := printf "img/%s/%s" $tag .logo | relURL }}
+                <div class="supporter-logo">
+                  {{ if .url }}
+                  <a href="{{ .url }}">
+                    <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+                  </a>
+                  {{ else }}
+                  <img src="{{ $imgUrl }}" alt="{{ .name }} logo">
+                  {{ end }}
+                </div>
+                {{ end }}
+              </div>
+              {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

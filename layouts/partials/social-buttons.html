@@ -1,0 +1,34 @@
+{{ $social   := .social }}
+{{ $twitter  := $social.twitter }}
+{{ $facebook := $social.facebook }}
+{{ $centered := .centered }}
+{{ $showText := .text | default true }}
+{{ $margin   := .margin }}
+{{ $size     := .size }}
+<div class="buttons {{ if $centered }} is-centered{{ end }}{{ if $margin }} margin-top{{ end }}">
+  {{ with $twitter }}
+  <a class="button is-radiusless is-twitter-blue{{ with $size }} is-{{ . }}{{ end }}" href="{{ . }}" target="_blank">
+    <span class="icon">
+      <i class="fab fa-twitter"></i>
+    </span>
+    {{ if $showText }}
+    <span class="has-text-weight-bold">
+      Twitter
+    </span>
+    {{ end }}
+  </a>
+  {{ end }}
+
+  {{ with $facebook }}
+  <a class="button is-radiusless is-facebook-blue{{ with $size }} is-{{ . }}{{ end }}" href="{{ . }}" target="_blank">
+    <span class="icon">
+      <i class="fab fa-facebook"></i>
+    </span>
+    {{ if $showText }}
+    <span class="has-text-weight-bold">
+      Facebook
+    </span>
+    {{ end }}
+  </a>
+  {{ end }}
+</div>

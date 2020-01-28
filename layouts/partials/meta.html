@@ -1,0 +1,26 @@
+{{ $isHome         := .IsHome }}
+{{ $pageType       := cond $isHome "website" "article" }}
+{{ $twitterCardImg := "/admin/img/logos/kubernetes-community-days.png" | absURL }}
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+<!-- OpenGraph metadata-->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="en_US">
+{{ if not $isHome }}
+<meta property="og:site_name" content="{{ site.Title }}">
+{{ end }}
+<meta name="og:type" content="{{ $pageType }}">
+
+<!-- Twitter Card metadata -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@k8scommunitydays">
+<meta name="twitter:creator" content="@k8scommunitydays">
+<meta name="twitter:image" content="{{ $twitterCardImg }}">
+
+<link rel="canonical" content="{{ .Permalink }}">
+{{ hugo.Generator }}
+{{ with .OutputFormats.Get "rss" -}}
+{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}

@@ -1,0 +1,12 @@
+# Node.js resources
+node_modules/
+
+# Hugo-generated assets
+public/
+resources/
+
+# Yarn error output
+yarn-error.log
+
+# Ignore Dropbox files
+.DS_Store
