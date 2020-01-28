@@ -21,6 +21,9 @@ On pourrait envisager l'agenda suivant :
 
 Individus potentiel pour talks :
   * Julien Maitrehenry ( a contacter )
+  * Guillaume Moutier, Red Hat ( a contacter )
+  * Martin Sauvé, Red Hat ( a contacter )
+  * Guillaume Dubé, Université Laval ( a contacter )
 
 
 Organisations/Compagnie potentiel :
