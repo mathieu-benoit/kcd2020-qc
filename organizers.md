@@ -1,3 +1,5 @@
+Here is our official email provided by the CNCF for this event, external people could reach out to us there: organizers-quebec-city@kubernetescommunitydays.org
+
 # Organizers
 
 - Mathieu Benoit, Microsoft, Cloud Solution Architect, mabenoit[at]microsoft[dot]com / Slack: mathieu-benoit / GitHub: @mathieu-benoit
