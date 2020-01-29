@@ -45,7 +45,7 @@
 - Cost: 500$CAD ou tout autre implication pour aider a l'organisation de cet evenement
 - [ ] 10 companies
   - Lecentre.net
-  - TODO
+  - Mayadata
   - TODO
   - TODO
   - TODO
