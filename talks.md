@@ -24,6 +24,7 @@ Individus potentiel pour talks :
   * Guillaume Moutier, Red Hat ( a contacter )
   * Martin Sauvé, Red Hat ( a contacter )
   * Guillaume Dubé, Université Laval ( a contacter )
+  * Philippe Theriault, Mayadata
 
 
 Organisations/Compagnie potentiel :
