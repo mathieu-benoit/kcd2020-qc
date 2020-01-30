@@ -84,4 +84,5 @@ Nous reconnaissons que les Meetups locaux favorisent a l'annee longue le partage
 - RedHatQC Meetup
 - ElasticQC Meetup
 - HashicorpQC Meetup
+
 Ces Meetups ne verseront pas d'argent en tant que sponsor, mais nous souhaitons afficher leurs logos sur le site web de l'evenement afin de les encourager en leur donnant plus de visibilite.
