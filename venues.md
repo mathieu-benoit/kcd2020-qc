@@ -1,16 +1,16 @@
 Idees d'endroits pour l'une des trois dates jeudi 11, mardi 16 ou jeudi 18 juin 2020 :
-- ENAP
+- [X] ENAP
+  - Mathieu: 1500$ pour Amphitheatre et 1 salle de 80 personne + hall principal + salle pour manger pour le 16 ou le 18 juin --> A confirmer dans la semaine du 17 fevrier si possible
+- [ ] Le Diamant
   - Mathieu: demande envoyee le 29 janvier
-- Le Diamant
-  - Mathieu: demande envoyee le 29 janvier
-- Palais Montcalm
-- Palais de Congres
+- [ ] Palais Montcalm
+- [ ] Palais de Congres
   - Martin: a contacter
-- Universite Laval
-- Chateau Frontenac
-- Chateau Laurier
+- [ ] Universite Laval
+- [ ] Chateau Frontenac
+- [ ] Chateau Laurier
   - Martin: a contacter
-- Port de Quebec
+- [ ] Port de Quebec
 
 Exemple (a adapter) d'email envoye a l'ENAP :
 > Bonjour,
