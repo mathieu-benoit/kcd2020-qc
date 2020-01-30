@@ -20,9 +20,9 @@
 ## Venue
 
 - [X] 1 entreprise
-- Cost: 5000$CAD
   - Microsoft
- - Avantages :
+- Cost: 5000$CAD
+- Avantages :
   - Logo sur le site web de l'evenement en tant que Sponsor principal
   - 1 emplacement dedie
   - 1 spot de 5 min pour parler au moment des Keynotes
@@ -35,7 +35,7 @@
   - TODO
 - Cost: 2000$CAD
 - Avantages :
-  - Logo sur le site web de l'evenement en tant que Sponsor principal
+  - Logo sur le site web de l'evenement
   - 1 emplacement dedie
   - 1 spot de 3 min pour parler au moment des Keynotes
   - 3 tickets gratuits
@@ -50,7 +50,7 @@
   - TODO
 - Cost: 1000$CAD
 - Avantages :
-  - Logo sur le site web de l'evenement en tant que Sponsor principal
+  - Logo sur le site web de l'evenement
   - 1 table dediee
   - 2 tickets gratuits
 
@@ -69,7 +69,7 @@
   - TODO
 - Cost: 500$CAD ou tout autre implication pour aider a l'organisation de cet evenement
 - Avantages :
-  - Logo sur le site web de l'evenement en tant que Sponsor principal
+  - Logo sur le site web de l'evenement
   - 1 ticket gratuit
 
 ## Communautaire
