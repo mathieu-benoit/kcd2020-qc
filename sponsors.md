@@ -17,7 +17,7 @@
 
 # Plan de commandite/sponsorship
 
-## Venue
+## Platine
 
 - [X] 1 entreprise
   - Microsoft
@@ -31,9 +31,9 @@
 ## Or
 
 - [ ] 2 entreprises
+  - RedHat
   - TODO
-  - TODO
-- Cost: 2000$CAD
+- Cost: 3000$CAD
 - Avantages :
   - Logo sur le site web de l'evenement
   - 1 emplacement dedie
@@ -44,11 +44,11 @@
 
 - [ ] 5 entreprises
   - iA
-  - RedHat
   - TODO
   - TODO
   - TODO
-- Cost: 1000$CAD
+  - TODO
+- Cost: 1500$CAD
 - Avantages :
   - Logo sur le site web de l'evenement
   - 1 table dediee
