@@ -1,9 +1,10 @@
 # Sponsors
 
 - Confirmed:
-  - Microsoft (venue/gold)
-  - RedHat (bronze)
-  - iA Financial Group (bronze)
+  - Microsoft (platine)
+  - RedHat (or)
+  - iA Financial Group (silver)
+  - MayaData (bronze)
   - Lecentre.net (financial)
 - To be confirmed:
   - SSQ?
@@ -12,77 +13,46 @@
   - Victrix?
   - Tetra?
   - CloudOps?
-  - Maya Data?
   - Ingeno?
+  - Container Solutions?
 
 # Plan de commandite/sponsorship
 
-## Platine
+Platine - 1 entreprise (6000$CAD)
 
-- [X] 1 entreprise
-  - Microsoft
-- Cost: 5000$CAD
-- Avantages :
-  - Logo sur le site web de l'evenement en tant que Sponsor principal
-  - 1 emplacement dedie
-  - 1 spot de 5 min pour parler au moment des Keynotes
-  - 5 tickets gratuits
+* Logo sur le site internet de l'évènement en tant que Sponsor Platine
+* 1 emplacement dédié lors de l'évènement
+* 2 créneaux de 5 min pour parler au moment des Keynotes
+* 5 entrées gratuites
 
-## Or
+Or - 2 entreprises (3000$CAD)
 
-- [ ] 2 entreprises
-  - RedHat
-  - TODO
-- Cost: 3000$CAD
-- Avantages :
-  - Logo sur le site web de l'evenement
-  - 1 emplacement dedie
-  - 1 spot de 3 min pour parler au moment des Keynotes
-  - 3 tickets gratuits
-  
-## Argent
+* Logo sur le site internet de l'évènement en tant que Sponsor Or
+* 1 emplacement dédié lors de l'évènement
+* 1 créneau de 3 min pour parler au moment des Keynotes
+* 3 entrées gratuites
 
-- [ ] 5 entreprises
-  - iA
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-- Cost: 1500$CAD
-- Avantages :
-  - Logo sur le site web de l'evenement
-  - 1 table dediee
-  - 2 tickets gratuits
+Argent - 5 entreprises (1500$CAD)
 
-## Bronze
+* Logo sur le site internet de l'évènement en tant que Sponsor Argent
+* 1 table dediée lors de l'évènement
+* 2 entrées gratuites
 
-- [ ] 10 entreprises
-  - Lecentre.net
-  - Mayadata
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-- Cost: 500$CAD ou tout autre implication pour aider a l'organisation de cet evenement
-- Avantages :
-  - Logo sur le site web de l'evenement
-  - 1 ticket gratuit
+Bronze - 10 entreprises (500$CAD)
 
-## Communautaire
+* Logo sur le site internet de l'évènement en tant que Sponsor Bronze
+* 1 entrée gratuite
 
-Nous reconnaissons que les Meetups locaux favorisent a l'annee longue le partage d'experiences et d'expertises autour de l'Open Source, du Cloud Native, etc. Merci aux personnes impliquees au bon deroulement de ces meetups et a leurs participantes et participants !
-- DockerQC Meetup
-- AWSQC Meetup
-- KubernetesQC Meetup
-- AzureQC Meetup
-- DotNetQC Meetup
-- AnsibleQC Meetup
-- RedHatQC Meetup
-- ElasticQC Meetup
-- HashicorpQC Meetup
+Communautaire
 
-Ces Meetups ne verseront pas d'argent en tant que sponsor, mais nous souhaitons afficher leurs logos sur le site web de l'evenement afin de les encourager en leur donnant plus de visibilite.
+Nous reconnaissons que les Meetups locaux favorisent pendant l'année longue le partage d'expériences et d'expertises autour de l'Open Source, du Cloud Native, etc. Merci aux personnes impliquées au bon déroulement de ces meetups et à leurs participantes et participants ! Ces Meetups ne verseront pas d'argent en tant que sponsor, mais nous souhaitons les lister sur cette page afin de les encourager en leur donnant plus de visibilité. N'hésitez pas à contacter leurs organisateurs, conférencières et conférenciers sont recherchés à longueur d'année.
+
+* [AnsibleQC Meetup](https://www.meetup.com/Ansible-Quebec/)
+* [AWSQC Meetup](https://www.meetup.com/QuebecCity-AWS-User-Group/)
+* [AzureQC Meetup](https://www.meetup.com/AzureQC/)
+* [DockerQC Meetup](https://www.meetup.com/Docker-Quebec-Meetup/)
+* [DotNetQC Meetup](https://www.meetup.com/DotNet-Quebec/)
+* [ElasticQC Meetup](https://www.meetup.com/Elastic-Quebec-City-User-Group/)
+* [HashicorpQC Meetup](https://www.meetup.com/Quebec-City-HashiCorp-User-Group/)
+* [KubernetesQC Meetup](https://www.meetup.com/Kubernetes-Quebec/)
+* [RedHatQC Meetup](https://www.meetup.com/RHUGQuebec/)
