@@ -6,6 +6,7 @@ Submission of the Quebec city event there: https://github.com/cncf/kubernetes-co
 
 Details are documented either in [our Kanban board for this event](https://github.com/mathieu-benoit/kcd2020-qc/projects/1) or in the sections below:
 - [Organizers](organizers.md)
+- [Venues](venues.md)
 - [Sponsors](sponsors.md)
 - [Talks](talks.md)
 - [Internal meetings](internal-meetings.md)
