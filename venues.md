@@ -1,8 +1,8 @@
 Idees d'endroits pour l'une des trois dates jeudi 11, mardi 16 ou jeudi 18 juin 2020 :
 - [X] ENAP
   - Mathieu: 1500$ pour Amphitheatre et 1 salle de 80 personne + hall principal + salle pour manger pour le 16 ou le 18 juin --> A confirmer dans la semaine du 17 fevrier si possible
-- [ ] Le Diamant
-  - Mathieu: demande envoyee le 29 janvier
+- [X] Le Diamant
+  - Mathieu: pas dispo pour 11, 15 ou 18 juin
 - [ ] Palais Montcalm
 - [ ] Palais de Congres
   - Martin: a contacter
