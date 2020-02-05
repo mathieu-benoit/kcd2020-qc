@@ -8,8 +8,19 @@ Idees d'endroits pour l'une des trois dates jeudi 11, mardi 16 ou jeudi 18 juin 
   - Martin: a contacter
 - [ ] Universite Laval
 - [ ] Chateau Frontenac
-- [ ] Chateau Laurier
-  - Martin: a contacter
+- [X] Chateau Laurier
+  - Martin:
+  
+        * Dispo le 16 juin uniquement
+        * 800$ par room ( 2 rooms )
+        * 275$ par projo/ecran
+        * 200$ par sono ( room )
+        * 9$/personne pour café+patisserie
+        * 29$/personne repas midi
+        * Wifi Privé 125$
+        * Reservable 60 jours d'avance seulement
+        * Reservable plustot si bloc de chambres
+        
 - [ ] Port de Quebec
 
 Exemple (a adapter) d'email envoye a l'ENAP :
