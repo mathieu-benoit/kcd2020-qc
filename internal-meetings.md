@@ -1,3 +1,17 @@
+# 2020-02-13
+
+With Seb C., Seb T. and Mathieu
+
+- Date: June 18th?
+- CFP --> Archy
+- Location --> Confirmation for ENAP?
+- Sponsorship plan validated?
+- Publication of the website?
+- Financial Sponsor --> Lecentre.net
+- Get RedHat, iA, MayaData and Microsoft payments --> Mathieu/Seb T.
+- Lead scanning during the event?
+- Start registration page on EventBrite? Who?
+
 # 2020-01-24
 
 With Seb C., Seb T., Martin and Mathieu.
