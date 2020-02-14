@@ -4,6 +4,7 @@ With Seb C., Seb T. and Mathieu
 
 - Date: June 18th
 - CFP --> Archy
+- The Quebec city image should be re-done/re-manipulated, the quality is bad, could we have a smaller one (not in diaporama mode?) to respect the requirement of < 500K in size but with a good quality?
 - Location --> Confirmation for ENAP
 - Sponsorship plan validated
 - Publication of the website --> Not yet we would like to wait for the EventBrite registration page
