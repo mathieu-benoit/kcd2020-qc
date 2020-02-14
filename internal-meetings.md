@@ -2,15 +2,23 @@
 
 With Seb C., Seb T. and Mathieu
 
-- Date: June 18th?
+- Date: June 18th
 - CFP --> Archy
-- Location --> Confirmation for ENAP?
-- Sponsorship plan validated?
-- Publication of the website?
+- Location --> Confirmation for ENAP
+- Sponsorship plan validated
+- Publication of the website --> Not yet we would like to wait for the EventBrite registration page
 - Financial Sponsor --> Lecentre.net
 - Get RedHat, iA, MayaData and Microsoft payments --> Mathieu/Seb T.
 - Lead scanning during the event?
-- Start registration page on EventBrite? Who?
+- Start registration page on EventBrite --> Seb T. is looking at this
+- Why not having volunteers the d-day to help as well as having a free ticket to attend few sessions
+- Ticket price will be 50$ for regular and 30$ for not enterprise employee like students, etc.
+- We will need a strategy around early bird where people who will register before date X will get a Swags Kit and after that just one Swaq for example
+- Ideas for Swags: hoodies, sockets, t-shrt with our local brand/logo
+- When people will register we will ask "do you want to stay for a 5@7 after the event?"
+- 5@7 --> Mathieu to ask La Korrigane
+- We will see if we could get guest speakers, anyone: let's reach out to our network!
+- We will see if we could have press release or IT journalist that could promote and/or cover that event?
 
 # 2020-01-24
 
